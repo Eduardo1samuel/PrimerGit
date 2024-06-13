@@ -19,3 +19,5 @@ git commit:Este comando graba los cambios realizados en el repositorio local con
 git push:Este comando sube los cambios del repositorio local al repositorio remoto (como GitHub o GitLab).
 
 git merge:Este comando fusiona una rama con otra rama.
+
+Trabajo Git
